@@ -41,3 +41,7 @@ footer {
     text-align: center;
     padding: 10px;
 }
+#contact a {
+    color: blue; /* Sets the text color to blue */
+    text-decoration: underline; /* Optional: Adds an underline to make it look like a link */
+}
