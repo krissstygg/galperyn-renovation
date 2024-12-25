@@ -1,0 +1,36 @@
+# Galperyn Renovation Website
+
+This is the official website for **Galperyn Renovation**, a company specializing in home remodeling and renovation services. The website showcases our services, portfolio, and provides a way for potential clients to get in touch.
+
+## Description
+Galperyn Renovation offers high-quality renovation services including:
+- Kitchen Renovations
+- Bathroom Remodeling
+- Full-Home Renovations
+- Custom Design & Builds
+- Additions and Extensions
+
+The website provides an overview of our work, services, and contact information, aiming to help clients transform their homes into dream spaces.
+
+## How to Use
+Visit the website at:
+[https://yourusername.github.io/galperyn-renovation](https://yourusername.github.io/galperyn-renovation)
+
+To explore our portfolio, check out the services we offer, or request a free quote, click on the corresponding sections on the homepage.
+
+## How to Contribute
+1. Fork this repository.
+2. Create a branch for your changes (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Submit a pull request to the main repository.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For inquiries or questions, email us at [contact@galperynrenovation.com](mailto:contact@galperynrenovation.com).
+
+## Acknowledgements
+- This website was built using HTML and CSS.
+- Thank you to the developers and designers who inspire and contribute to the open-source community.
